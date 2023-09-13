@@ -1,6 +1,6 @@
-# nlwia
+# nlw-ia
 
-Building a awesome complete project using artificial intelligence.
+Building this awesome complete project using artificial intelligence.
 
 With Html, css and JavaScript
 
