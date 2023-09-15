@@ -1,7 +1,7 @@
-//js
+// JS
 import "./form.js"
 
-//css
+// CSS
 import "./styles/base.css"
 import "./styles/app.css"
 import "./styles/form.css"
